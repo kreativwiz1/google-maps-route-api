@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # Your Google Maps API Key
-GOOGLE_MAPS_API_KEY = 'AIzaSyCDa7FzfmNAF2Shcx9HqRY_rpEPpAE0fkQ'
+GOOGLE_MAPS_API_KEY = 'your_google_api_key'
 
 @app.route('/get-route-estimation', methods=['POST'])
 def get_route_estimation():
