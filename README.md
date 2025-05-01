@@ -38,7 +38,7 @@ A Flask-based REST API service that provides real-time route estimations using t
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/google-maps-route-api.git
+git clone https://github.com/kreativwiz1/google-maps-route-api.git
 cd google-maps-route-api
 ```
 
